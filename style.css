@@ -36,10 +36,10 @@ span {
 }
 
 .button-text:hover {
-    color: #ffffff !important;
+    color: rgb(37, 37, 37) !important;
     font-weight: 700 !important;
     letter-spacing: 3px;
-    background: none;
+    background: #ffffff;
     box-shadow: 0px 5px 40px -10px rgba(255,255,255,0.57);
     -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
